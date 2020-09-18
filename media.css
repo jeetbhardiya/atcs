@@ -7,8 +7,6 @@
 
   .box-1,.container,.box-2,.box-3{
     flex-direction: column;
-  }
-}
     border: 5px;
     padding: 5px;
   }
