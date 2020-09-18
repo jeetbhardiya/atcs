@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 0d60d2059a8a83590d1a321a30e1a2b40443fd11
 @media screen and (max-width: 700px) {
   body {
     background-color: lightgreen;
     flex-direction: row;
     border: 5px;
-<<<<<<< HEAD
   }
 
   .box-1,.container,.box-2,.box-3{
     flex-direction: column;
   }
 }
-=======
     border: 5px;
     padding: 5px;
   }
@@ -28,4 +22,3 @@
 justify-content: center;
   }
 }
->>>>>>> 0d60d2059a8a83590d1a321a30e1a2b40443fd11
